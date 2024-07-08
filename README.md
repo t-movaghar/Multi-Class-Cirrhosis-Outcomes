@@ -51,6 +51,7 @@ Neural networks are generally better suited to higher-dimentional, more complex 
 
 Data was split, using 80% for training and 20% for testing. Class weights were calculated and applied to the model in order to combat the class imbalance. N_estimators = 300.
 
+```
 Accuracy: 0.8311195445920304
 
 Classification Report:
@@ -64,6 +65,7 @@ Classification Report:
    macro avg       0.77      0.61      0.64      1581
 weighted avg       0.83      0.83      0.82      1581
 
+```
 
 Confusion matrix for the Random Forest Model: 
 ![image](https://github.com/t-movaghar/Multi-Class-Cirrhosis-Outcomes/assets/123412483/881180d0-646f-4c52-8601-65cc535b1268)
