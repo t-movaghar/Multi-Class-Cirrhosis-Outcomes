@@ -86,7 +86,7 @@ My model was generally good at distinguishing between classes "C" and "D", but i
 The ability to predict patient outcomes of liver cirrhosis using features like blood bilirubin, copper levels, and other biomarkers is crucial for the development of early intervention methods and personalized treatment plans. 
 As healthcare moves towards more data-driven and preventative approaches to medicine, predictive models can be a powerful tool in helping healthcare professionals prioritize care for those at higher risk, improve patient quality of life, and educate patients on their prognosis.
 
-Considering the state of my model now, while its overall accuracy is high, I'd like to improve upon my methods for dealing with the class imbalance. My model had difficulty identifying class "CL", which was indicated in its poor recall score.
+Considering the state of my model now, while its overall accuracy is high, it had difficulty identifying class "CL", which was indicated in its poor recall score. In a future attempt, I'd like to include the use of SMOTE to deal with my class imbalance.
 
 
 
